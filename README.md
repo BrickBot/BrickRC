@@ -1,6 +1,9 @@
 Brick Remote Control
 ====================
+BrickRC is a simple Gnome application to remotely control the LEGO Mindstorms RCX brick.
+
 http://brickrc.sourceforge.net/
+
 
 Basic Installation
 ==================
